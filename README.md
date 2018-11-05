@@ -1,7 +1,7 @@
 # wts
 
 This repository contains an implementation of Dynamic Wave Terrain Synthesis with 3D visulisation and unique extensions. 
-It implemented as part of my [masters thesis](https://projekter.aau.dk/projekter/files/286179553/thesisReport.pdf) for the MSc. Sound and Music Computing program at Aalborg University Copenhagen. 
+It implemented as part of my [masters thesis](https://projekter.aau.dk/projekter/files/286179553/thesisReport.pdf) for the MSc. Sound and Music Computing at Aalborg University Copenhagen. 
 
 Extensions include:
 - Interfacing  and mapping with MPE compatible instruments for XYZ expressive control of the orbit
