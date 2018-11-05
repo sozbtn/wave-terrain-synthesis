@@ -13,6 +13,6 @@ Extensions include:
 Parametric control parameters include: X/Y terrain iterations, scaling, oscillators, orbit size, wrap/fold boundary behaviour, chaotic range/sensitivity, terrain modulation speed and direction. 
 
 
-This work is stems of the original paper for WTS: [audio synthesis by functions of two variables](http://www.aes.org/e-lib/browse.cfm?elib=3815)
+This work stems from the original paper for WTS: [audio synthesis by functions of two variables](http://www.aes.org/e-lib/browse.cfm?elib=3815)
 
 The RISE package by Cycling74 is required to run the instrument.
