@@ -15,4 +15,4 @@ Parametric control parameters include: X/Y terrain iterations, scaling, oscillat
 
 This work stems from the original 1982 paper for WTS: [audio synthesis by functions of two variables](http://www.aes.org/e-lib/browse.cfm?elib=3815)
 
-The RISE package by Cycling74 is required to run the instrument.
+The RISE package by Cycling74 is required to run the patch, and an MPE compatible instrument to perform with the instrument.
